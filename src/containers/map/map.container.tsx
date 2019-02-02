@@ -1,5 +1,5 @@
 const Map = (props: any) => {
-  return <>{props}</>;
+  return <>THIS IS MAP</>;
 };
 
 export default Map;

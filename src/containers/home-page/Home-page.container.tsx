@@ -1,10 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
 
-class HomePage extends Component {
-  state = {};
-  render() {
-    return <>HELLO THERE</>;
-  }
-}
+const HomePage = (props: any) => {
+  return <>HELLO PLSSS</>;
+};
 
 export default HomePage;
